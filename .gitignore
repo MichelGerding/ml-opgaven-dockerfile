@@ -1,3 +1,5 @@
 *opgaven_solved/
 
 .venv*
+.idea
+.vscode
