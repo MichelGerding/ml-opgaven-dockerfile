@@ -1,0 +1,8 @@
+scikit-learn
+matplotlib
+scipy
+numpy
+pandas
+jupyter
+py_midicsv
+midi_player
