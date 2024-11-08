@@ -3,6 +3,11 @@ name: Docker Image CI
 on:
   push:
     branches: ["main"]
+    paths:
+      - "opgaven/**"
+      - "Dockerfile"
+      - "requirements.txt"
+      - "jupyter_extensions.txt"
 
 jobs:
   build-gpu:
